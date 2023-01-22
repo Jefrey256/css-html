@@ -1,0 +1,29 @@
+* {
+  top: 100%;
+}
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #FAA2D9; }
+.My-Color-Theme-2-hex { color: #FABBE2; }
+.My-Color-Theme-3-hex { color: #FAEDD4; }
+.My-Color-Theme-4-hex { color: #D8FAD4; }
+.My-Color-Theme-5-hex { color: #88B8FA; }
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba { color: rgba(250, 162, 217, 1); }
+.My-Color-Theme-2-rgba { color: rgba(250, 187, 226, 1); }
+.My-Color-Theme-3-rgba { color: rgba(250, 237, 212, 1); }
+.My-Color-Theme-4-rgba { color: rgba(216, 250, 212, 1); }
+.My-Color-Theme-5-rgba { color: rgba(136, 184, 250, 1); }
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla { color: hsla(322, 89, 80, 1); }
+.My-Color-Theme-2-hsla { color: hsla(322, 86, 85, 1); }
+.My-Color-Theme-3-hsla { color: hsla(39, 79, 90, 1); }
+.My-Color-Theme-4-hsla { color: hsla(113, 79, 90, 1); }
+.My-Color-Theme-5-hsla { color: hsla(214, 91, 75, 1); }
+
+.tt {
+  background-image: url("./image/wpp legal.jpeg");
+
+  
+}
